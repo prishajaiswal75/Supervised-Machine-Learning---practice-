@@ -1,36 +1,10 @@
-# Supervised Machine Learning — Practice 📘
+# Supervised Machine Learning — Practice 
 
 This repository contains my complete lab work, practice notebooks, and experiments for **Supervised Machine Learning (SML)**.  
 It includes hands-on implementations of core ML algorithms for **regression** and **classification**, along with dataset exploration and evaluation techniques.
 
----
 
-## 📂 Repository Structure
-
-SML_LAB/
-│
-├── Regression/
-│ ├── Simple Linear Regression
-│ ├── Multiple Linear Regression
-│ ├── Polynomial Regression
-│ ├── Ridge & Lasso Regression
-│ ├── KNN (Regression + Classification)
-│ └── Revision notebooks
-│
-├── Classification/
-│ ├── Logistic Regression
-│ ├── SVM
-│ ├── Decision Tree
-│ ├── Random Forest & Ensemble Methods
-│ ├── Naive Bayes
-│ └── Revision notebooks
-│
-└── .ipynb_checkpoints/ (ignored)
-
-
----
-
-## 🧠 Topics Covered
+##  Topics Covered
 
 ### **Regression**
 - Simple Linear Regression  
@@ -51,7 +25,7 @@ SML_LAB/
 
 ---
 
-## 📊 What You Will Find in the Notebooks
+##  What You Will Find in the Notebooks
 ✔ Step-by-step ML model building  
 ✔ Data preprocessing & visualization  
 ✔ Train–test split and cross-validation  
@@ -67,7 +41,7 @@ Install required libraries:
 
 pip install numpy pandas scikit-learn matplotlib seaborn
 
-## 🚀 How to Use
+##  How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/prishajaiswal75/Supervised-Machine-Learning---practice-.git
